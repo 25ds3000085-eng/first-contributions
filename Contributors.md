@@ -72,6 +72,7 @@ Arman P
 - [Nishi Mandhana](https://github.com/nmandhana)
 - [James Hillman]https://github.com/skillman85
 - [Yashwant Nayak](https://github.com/Yashwant990)
+- [Estelle](https://github.com/25ds3000085-eng) - Second contribution via first-contributions
 - [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Teresia Wairimu](https://github.com/teresiawairimu)
 - [Julian Andres](https://github.com/julianandresdev)
